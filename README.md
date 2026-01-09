@@ -33,7 +33,9 @@ PyPDF: To read PDF documents
 **Chapter 3: Loading the Knowledge**
 
 Step 2: Reading the Documents
-pythondef load_docs(folder_path):
+python
+
+def load_docs(folder_path):
     docs = []
     for file in os.listdir(folder_path):
         if file.endswith(".pdf"):
