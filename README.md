@@ -1,4 +1,5 @@
-From Retrieval to Reasoning: Building an Agentic RAG Framework - A Story
+**From Retrieval to Reasoning: Building an Agentic RAG Framework - A Story**
+
 The Big Picture
 Imagine you're building a personal AI assistant that can intelligently answer questions about the Bhagavad Gita. But here's the challenge: you want it to be smart enough to know when it needs to look up information versus when it can answer directly from its own knowledge. 
 
