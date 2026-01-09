@@ -33,7 +33,7 @@ PyPDF: To read PDF documents
 **Chapter 3: Loading the Knowledge**
 
 Step 2: Reading the Documents
-python
+python code:
 
 def load_docs(folder_path):
     docs = []
